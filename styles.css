@@ -4,6 +4,7 @@
  body {
      font-family: Arial, sans-serif;
      padding: 20px;
+     background: #bbdef0;
 }
  #markdown-input {
      width: 100%;
