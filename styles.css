@@ -23,6 +23,9 @@
 .background {
     background: #80ded9;
 }
+h1 {
+    text-align: center;
+}
  @media (min-width: 600px) {
      #markdown-input, #html-output, #preview {
          height: 200px;
